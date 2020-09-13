@@ -5,6 +5,6 @@
 - 👯 I’m looking to collaborate on interesting Machine Learning project.
 - 🤔 I’m looking for help with Convoltion nueral networks.
 - 💬 Ask me about python & machine learning algorithms.
-- 📫 How to reach me:[mylinkedin](https://www.linkedin.com/in/sharath-chandrika-avvaru-715421160/),[gmail](aschandrika123@gmail.com)
+- 📫 How to reach me:[mylinkedin](https://www.linkedin.com/in/sharath-chandrika-avvaru-715421160/)
 - 😄 Pronouns: Chandrika
 - ⚡ Fun fact:unpredictable
