@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on machine learning.
 - 🌱 I’m currently learning clustering.
 - 👯 I’m looking to collaborate on interesting Machine Learning project.
-- 🤔 I’m looking for help with Convoltion nueral networks.
+- 🤔 I’m looking for help with Convolutional neural networks.
 - 💬 Ask me about python & machine learning algorithms.
 - 📫 How to reach me:[mylinkedin](https://www.linkedin.com/in/sharath-chandrika-avvaru-715421160/)
 - 😄 Pronouns: Chandrika
